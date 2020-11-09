@@ -1,0 +1,2 @@
+insert into product (name, code ,carton_price, units_per_carton, price_multiplier) values ('Penguin-ears', 'Penguin-ears', 175, 20, 1.3);
+insert into product (name, code ,carton_price, units_per_carton, price_multiplier) values ('Horseshoe', 'Horseshoe', 825, 5, 1.3);
