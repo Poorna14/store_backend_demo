@@ -10,4 +10,4 @@ Steps to run the project
 4. Run the project 
 5. Project will start on default port of 8085
 
-Make sure to free up the port 8085 before running or if running on a different port update the port references on ProductSelector.js and Form.js files of the frontend accordingly.
+Make sure to free up the port 8085 before running or if running on a different port update the port reference on .env file of the frontend accordingly.
